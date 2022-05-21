@@ -7,22 +7,19 @@
   <span style="font-family:Sans-serif; font-size:1.5em">And I'm an Android Developer</span>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonathansandoval-cruz/"><img height="30" src="https://github.com/jitzian/jitzian/blob/NothingTest/icon/linkedin_logo.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jitzian/"><img height="30" src="https://github.com/jitzian/jitzian/blob/NothingTest/icon/instagram_logo.png"/></a>&nbsp;&nbsp;
-
-</p>
-
-<div class="background-container">
-  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1231630/moon2.png" alt="">
-  <div class="stars"></div>
-  <div class="twinkling"></div>
-  <div class="clouds"></div>
+<div class="background-container" align="center">
+  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1231630/moon2.png" alt="" width="400" height="400">
+</div>
 
   ## Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
+## You can find me at:
+<p align="left">
+<a href="https://www.linkedin.com/in/jonathansandoval-cruz/"><img height="30" src="https://github.com/jitzian/jitzian/blob/NothingTest/icon/linkedin_logo.png"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/jitzian/"><img height="30" src="https://github.com/jitzian/jitzian/blob/NothingTest/icon/instagram_logo.png"/></a>&nbsp;&nbsp;
+</p>
 
 
 <!--
