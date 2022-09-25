@@ -11,7 +11,10 @@
   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1231630/moon2.png" alt="" width="400" height="400">
 </div>
 
-  ## Skills:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jitzian&show_icons=true&theme=dracula)
+
+
+## Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
