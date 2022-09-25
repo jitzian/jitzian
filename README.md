@@ -4,9 +4,10 @@ I'm Jonathan Sandoval
 
 And I'm an Android Developer
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jitzian&show_icons=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jitzian&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgub&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitzian&layout=compact&theme=radical)
+
 
 <!--
 <p align="center">
