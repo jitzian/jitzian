@@ -31,7 +31,10 @@ And I'm an Android Developer
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 ![C#](https://img.shields.io/badge/CSharp-1d3e7a?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
 
-## You can find me at:
+![](https://media.giphy.com/media/okZ8eqHMUPDdLEAIkf/giphy.gif)
+
+### 📫 How to reach me: ...
+
 <p align="left">
 <a href="https://www.linkedin.com/in/jonathansandoval-cruz/"><img height="30" src="https://github.com/jitzian/jitzian/blob/NothingTest/icon/linkedin_logo.png"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jitzian/"><img height="30" src="https://github.com/jitzian/jitzian/blob/NothingTest/icon/instagram_logo.png"/></a>&nbsp;&nbsp;
