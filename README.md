@@ -51,8 +51,12 @@
 
 ## You can find me at:
 <p align="left">
-<a href="https://www.linkedin.com/in/jonathansandoval-cruz/"><img height="30" src="https://github.com/jitzian/jitzian/blob/NothingTest/icon/linkedin_logo.png"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/jitzian/"><img height="30" src="https://github.com/jitzian/jitzian/blob/NothingTest/icon/instagram_logo.png"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jonathansandoval-cruz/">
+  <img height="50" width="50" src="https://github.com/jitzian/jitzian/blob/NothingTest/icon/linkedin_logo.png" alt="LinkedIn Logo"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/jitzian/">
+  <img height="50" width="50" src="https://github.com/jitzian/jitzian/blob/NothingTest/icon/instagram_logo.png" alt="Instagram Logo"/>
+</a>&nbsp;&nbsp;
 </p>
 
 
