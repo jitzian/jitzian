@@ -30,12 +30,25 @@
 
 ---
 
-## Skills:
+## Skills & Technologies:
+
+### Core:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
-![C#](https://img.shields.io/badge/CSharp-1d3e7a?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+
+### Android Development:
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)
+![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-FF5733?style=for-the-badge&logo=dagger&logoColor=white&labelColor=101010)
+![Kotlin Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
+![Android Architecture](https://img.shields.io/badge/Clean%20Architecture-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
+![Room](https://img.shields.io/badge/Room-FF5733?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)
+
+### Testing & CI/CD:
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white&labelColor=101010)
+![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)
 
 ---
 
@@ -43,9 +56,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitzian&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitzian&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kza2N1a2JnZ20xY2hsM2dhNDhpZncwZngzZnYzbTFiMTFoNzV3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif" alt="Coding GIF" width="800">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Android Development" width="800">
+  <!-- <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="Mobile Development" width="400"> -->
+</div>
 
 ---
 
@@ -59,6 +73,18 @@
 </a>&nbsp;&nbsp;
 </p>
 
+## 🤖 Android Fun Facts:
+
+- Did you know that Android's mascot, the green robot, is named "Bugdroid"? It was designed by Irina Blok while she was working at Google!
+- Every Android version (except Android 1.0 and 1.1) has been named after a sweet treat, following alphabetical order - from Cupcake to Tiramisu!
+- The first Android phone was the HTC Dream (T-Mobile G1), released in 2008, featuring a slide-out QWERTY keyboard!
+- Kotlin, my favorite language for Android development, became an officially supported language in 2017 and is now Google's preferred language for Android app development.
+
+### 🚀 Current Focus:
+- Building scalable Android applications using Clean Architecture
+- Exploring the latest in Jetpack Compose and Material Design 3
+- Implementing robust testing strategies with JUnit and Espresso
+- Optimizing app performance and user experience
 
 <!--
 **jitzian/jitzian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
